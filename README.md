@@ -10,7 +10,7 @@ To evaluate whether changes in marketing strategy (test group) led to better per
 
 ## 📌 Key Findings
 
-- Test group spent **11.6% more** than control
+- Test group spent **11% more** than control
 - Received **33% fewer impressions** and **41% lower reach**
 - **Add to Cart** rate dropped by **32.4%** (statistically significant)
 - No significant change in **purchases**
