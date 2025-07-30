@@ -17,7 +17,7 @@ To evaluate whether changes in marketing strategy (test group) led to better per
 
 ## ✅ Conclusion
 
-The test version underperformed across multiple key metrics but also resulted in more spending. Higher spend did not translate into improved results in other metrics. The control campaign is more efficient and should be preferred if higher spending is not the priority.
+The test version underperformed across multiple key metrics but also resulted in more spending. Higher spend did not translate into improved results in other metrics. The control campaign is more efficient and should be preferred over the test campaign.
 
 ## 📦 Tools Used
 
